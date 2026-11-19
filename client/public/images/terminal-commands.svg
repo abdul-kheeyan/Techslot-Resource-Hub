@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="20" x2="1120" y2="680" gradientUnits="userSpaceOnUse"><stop stop-color="#292045"/><stop offset="1" stop-color="#10121b"/></linearGradient>
+    <linearGradient id="glow" x1="185" y1="135" x2="920" y2="580" gradientUnits="userSpaceOnUse"><stop stop-color="#a993ff" stop-opacity=".3"/><stop offset="1" stop-color="#6c55db" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><path fill="url(#glow)" d="M0 0h1200v675H0z"/>
+  <circle cx="1050" cy="110" r="180" fill="#9d85ff" fill-opacity=".08"/><circle cx="95" cy="600" r="170" fill="#8a6fff" fill-opacity=".08"/>
+  <rect x="118" y="106" width="964" height="463" rx="26" fill="#0B0D13" stroke="#62558B" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M119 174h962" stroke="#333143" stroke-width="2"/>
+  <circle cx="157" cy="141" r="8" fill="#FC8178"/><circle cx="185" cy="141" r="8" fill="#E8C36A"/><circle cx="213" cy="141" r="8" fill="#77CF9A"/>
+  <text x="255" y="149" fill="#9A95A9" font-family="monospace" font-size="18">techslot / terminal-guide</text>
+  <text x="171" y="249" fill="#B59FFF" font-family="monospace" font-size="31">$</text><text x="211" y="249" fill="#EBE7F7" font-family="monospace" font-size="27">find your next command</text>
+  <text x="171" y="312" fill="#8D79E8" font-family="monospace" font-size="25">01</text><text x="225" y="312" fill="#C5C1D2" font-family="monospace" font-size="24">git status</text><text x="480" y="312" fill="#747285" font-family="monospace" font-size="19">check your working tree</text>
+  <text x="171" y="365" fill="#8D79E8" font-family="monospace" font-size="25">02</text><text x="225" y="365" fill="#C5C1D2" font-family="monospace" font-size="24">npm run dev</text><text x="480" y="365" fill="#747285" font-family="monospace" font-size="19">start local development</text>
+  <text x="171" y="418" fill="#8D79E8" font-family="monospace" font-size="25">03</text><text x="225" y="418" fill="#C5C1D2" font-family="monospace" font-size="24">docker compose up</text><text x="535" y="418" fill="#747285" font-family="monospace" font-size="19">run your services</text>
+  <rect x="170" y="474" width="333" height="48" rx="12" fill="#221C37" stroke="#514477"/><text x="193" y="505" fill="#C7B9FF" font-family="Arial,sans-serif" font-size="17" font-weight="700">150+ COMMANDS  ·  12 CATEGORIES</text>
+</svg>

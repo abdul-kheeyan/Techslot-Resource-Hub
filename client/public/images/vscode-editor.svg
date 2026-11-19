@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#163D59"/><stop offset="1" stop-color="#10141C"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1060" cy="100" r="180" fill="#4CB1E2" fill-opacity=".12"/>
+  <rect x="98" y="100" width="1004" height="475" rx="24" fill="#11151D" stroke="#4B7894" stroke-width="2"/>
+  <path d="M99 164h1002" stroke="#34404A" stroke-width="2"/><circle cx="139" cy="132" r="8" fill="#FC8178"/><circle cx="167" cy="132" r="8" fill="#E8C36A"/><circle cx="195" cy="132" r="8" fill="#77CF9A"/>
+  <rect x="99" y="165" width="206" height="409" fill="#171C25"/><text x="129" y="212" fill="#8A97A6" font-family="monospace" font-size="16">EXPLORER</text>
+  <text x="132" y="265" fill="#70C8F0" font-family="monospace" font-size="17">▾  techslot-app</text><text x="157" y="307" fill="#A8B1BE" font-family="monospace" font-size="16">src</text><text x="176" y="348" fill="#E3C47B" font-family="monospace" font-size="16">App.jsx</text><text x="176" y="389" fill="#A8B1BE" font-family="monospace" font-size="16">api.js</text>
+  <text x="353" y="218" fill="#9DA9B7" font-family="monospace" font-size="17">1</text><text x="395" y="218" fill="#C2A0FF" font-family="monospace" font-size="21">export default function</text><text x="713" y="218" fill="#7CCCEB" font-family="monospace" font-size="21">App() {</text>
+  <text x="353" y="267" fill="#9DA9B7" font-family="monospace" font-size="17">2</text><text x="424" y="267" fill="#C8D1DD" font-family="monospace" font-size="21">return (</text>
+  <text x="353" y="316" fill="#9DA9B7" font-family="monospace" font-size="17">3</text><text x="452" y="316" fill="#9FE0BD" font-family="monospace" font-size="21">&lt;main&gt;Build something useful&lt;/main&gt;</text>
+  <text x="353" y="365" fill="#9DA9B7" font-family="monospace" font-size="17">4</text><text x="424" y="365" fill="#C8D1DD" font-family="monospace" font-size="21">);</text>
+  <text x="353" y="414" fill="#9DA9B7" font-family="monospace" font-size="17">5</text><text x="395" y="414" fill="#7CCCEB" font-family="monospace" font-size="21">}</text>
+  <rect x="353" y="475" width="683" height="56" rx="12" fill="#18354B" stroke="#315F7D"/><text x="381" y="510" fill="#A6DDF4" font-family="Arial,sans-serif" font-size="18">Code · Debug · Extend</text>
+</svg>

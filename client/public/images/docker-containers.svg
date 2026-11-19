@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#173E50"/><stop offset="1" stop-color="#10141D"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1050" cy="100" r="200" fill="#5CC4DE" fill-opacity=".1"/>
+  <text x="111" y="132" fill="#83D3E5" font-family="monospace" font-size="18" letter-spacing="3">CONTAINERS / COMPOSE</text>
+  <text x="111" y="202" fill="#F0F5F7" font-family="Arial,sans-serif" font-size="46" font-weight="700">One app. Isolated services.</text>
+  <path d="M195 428h811" stroke="#3A788A" stroke-width="4" stroke-linecap="round"/>
+  <rect x="136" y="290" width="248" height="188" rx="20" fill="#17232C" stroke="#4B92A5" stroke-width="2"/>
+  <rect x="160" y="325" width="53" height="48" rx="8" fill="#255B6B"/><rect x="222" y="325" width="53" height="48" rx="8" fill="#255B6B"/><rect x="284" y="325" width="53" height="48" rx="8" fill="#255B6B"/><text x="161" y="424" fill="#BFE9F0" font-family="monospace" font-size="17">WEB</text>
+  <rect x="476" y="290" width="248" height="188" rx="20" fill="#17232C" stroke="#4B92A5" stroke-width="2"/>
+  <rect x="500" y="325" width="53" height="48" rx="8" fill="#285E57"/><rect x="562" y="325" width="53" height="48" rx="8" fill="#285E57"/><rect x="624" y="325" width="53" height="48" rx="8" fill="#285E57"/><text x="501" y="424" fill="#BFE9F0" font-family="monospace" font-size="17">API</text>
+  <rect x="816" y="290" width="248" height="188" rx="20" fill="#17232C" stroke="#4B92A5" stroke-width="2"/>
+  <rect x="840" y="325" width="53" height="48" rx="8" fill="#51466E"/><rect x="902" y="325" width="53" height="48" rx="8" fill="#51466E"/><rect x="964" y="325" width="53" height="48" rx="8" fill="#51466E"/><text x="841" y="424" fill="#BFE9F0" font-family="monospace" font-size="17">DATA</text>
+  <circle cx="258" cy="512" r="8" fill="#75D7E5"/><circle cx="598" cy="512" r="8" fill="#75D7E5"/><circle cx="938" cy="512" r="8" fill="#75D7E5"/>
+</svg>

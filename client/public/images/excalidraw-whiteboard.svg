@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#34334D"/><stop offset="1" stop-color="#11141C"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1050" cy="94" r="190" fill="#A99BFF" fill-opacity=".1"/>
+  <rect x="105" y="91" width="990" height="493" rx="25" fill="#F3F0E7"/>
+  <path d="M161 159h877M161 523h877" stroke="#DBD8D0" stroke-width="2"/>
+  <circle cx="222" cy="348" r="73" stroke="#735CD6" stroke-width="6"/><path d="M291 348h178" stroke="#6F6B80" stroke-width="5" stroke-linecap="round" stroke-dasharray="9 12"/><path d="m453 330 20 18-20 18" stroke="#6F6B80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="490" y="270" width="213" height="157" rx="20" stroke="#E29454" stroke-width="6"/><path d="M705 348h116" stroke="#6F6B80" stroke-width="5" stroke-linecap="round" stroke-dasharray="9 12"/><path d="m805 330 20 18-20 18" stroke="#6F6B80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m860 292 69-36 74 42-7 89-72 38-69-41 5-92Z" stroke="#54A692" stroke-width="6" stroke-linejoin="round"/>
+  <text x="168" y="211" fill="#5F5B6E" font-family="monospace" font-size="17" letter-spacing="2">SKETCH THE SYSTEM</text>
+  <text x="194" y="355" fill="#514B66" font-family="Arial,sans-serif" font-size="19">IDEA</text><text x="547" y="359" fill="#71552E" font-family="Arial,sans-serif" font-size="19">PLAN</text><text x="862" y="355" fill="#376B60" font-family="Arial,sans-serif" font-size="19">BUILD</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="20" y1="20" x2="1150" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#34243D"/><stop offset="1" stop-color="#11131C"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1080" cy="570" r="210" fill="#B68BFF" fill-opacity=".08"/>
+  <rect x="118" y="95" width="964" height="485" rx="24" fill="#11121A" stroke="#55455F" stroke-width="2"/>
+  <path d="M119 163h962" stroke="#34303B" stroke-width="2"/>
+  <circle cx="158" cy="130" r="8" fill="#FC8178"/><circle cx="186" cy="130" r="8" fill="#E8C36A"/><circle cx="214" cy="130" r="8" fill="#77CF9A"/>
+  <text x="257" y="139" fill="#A49AAD" font-family="monospace" font-size="18">pull-request / review.diff</text>
+  <rect x="167" y="202" width="865" height="51" rx="9" fill="#512D39" fill-opacity=".55"/><text x="194" y="235" fill="#FF9DAD" font-family="monospace" font-size="23">−</text><text x="232" y="235" fill="#E5BBC3" font-family="monospace" font-size="21">return cachedValue;</text>
+  <rect x="167" y="262" width="865" height="51" rx="9" fill="#203C35" fill-opacity=".7"/><text x="194" y="295" fill="#90E2B8" font-family="monospace" font-size="23">+</text><text x="232" y="295" fill="#BEE4CE" font-family="monospace" font-size="21">return await refreshCache();</text>
+  <rect x="167" y="346" width="865" height="141" rx="16" fill="#1C2029" stroke="#3B3D4A"/>
+  <circle cx="204" cy="389" r="14" fill="#FFC56E"/><text x="238" y="397" fill="#EDEAF2" font-family="Arial,sans-serif" font-size="22" font-weight="700">Actionable review</text>
+  <text x="204" y="437" fill="#AAABB7" font-family="Arial,sans-serif" font-size="19">Check impact, repro steps, and the smallest safe change.</text>
+  <text x="167" y="535" fill="#AA9AB7" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">A TECHSLOT ORIGINAL AI PROMPT</text>
+</svg>

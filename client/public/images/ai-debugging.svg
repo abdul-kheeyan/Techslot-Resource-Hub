@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#203348"/><stop offset="1" stop-color="#10141E"/></linearGradient><linearGradient id="panel" x1="248" y1="126" x2="1000" y2="565" gradientUnits="userSpaceOnUse"><stop stop-color="#202B3A"/><stop offset="1" stop-color="#151A24"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1035" cy="84" r="210" fill="#79D3DA" fill-opacity=".1"/><circle cx="60" cy="610" r="190" fill="#7DA9FF" fill-opacity=".08"/>
+  <rect x="105" y="104" width="990" height="468" rx="26" fill="url(#panel)" stroke="#4A6578" stroke-opacity=".65" stroke-width="2"/>
+  <text x="152" y="168" fill="#8FC7CE" font-family="monospace" font-size="18" letter-spacing="3">PROMPT 01  /  DEBUGGING</text>
+  <text x="152" y="235" fill="#F2F1F7" font-family="Arial,sans-serif" font-size="45" font-weight="700">Find the cause.</text>
+  <text x="152" y="286" fill="#B6C0CC" font-family="Arial,sans-serif" font-size="24">Not just another guess.</text>
+  <rect x="152" y="337" width="896" height="144" rx="18" fill="#10151D" stroke="#344758"/>
+  <text x="184" y="386" fill="#88D6C1" font-family="monospace" font-size="22">OBSERVED</text><text x="380" y="386" fill="#D6D8E0" font-family="monospace" font-size="21">what happened?</text>
+  <path d="M184 407h795" stroke="#2B3945" stroke-width="2"/>
+  <text x="184" y="449" fill="#B49AFF" font-family="monospace" font-size="22">ROOT CAUSE</text><text x="380" y="449" fill="#D6D8E0" font-family="monospace" font-size="21">evidence → smallest fix</text>
+  <circle cx="1000" cy="177" r="19" fill="#8FE0CE" fill-opacity=".16"/><path d="m990 177 7 7 14-16" stroke="#8FE0CE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="152" y="531" fill="#83919E" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">A TECHSLOT ORIGINAL AI PROMPT</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#343148"/><stop offset="1" stop-color="#12151D"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1080" cy="90" r="180" fill="#FFC978" fill-opacity=".1"/>
+  <text x="105" y="124" fill="#D5B77E" font-family="monospace" font-size="18" letter-spacing="3">PROMPT 03  /  LEARN WITH INTENTION</text>
+  <text x="105" y="202" fill="#F4F0E9" font-family="Arial,sans-serif" font-size="47" font-weight="700">Small steps. Real progress.</text>
+  <path d="M183 395h834" stroke="#61596F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="216" cy="395" r="21" fill="#A990FF"/><circle cx="509" cy="395" r="21" fill="#8FD9C4"/><circle cx="802" cy="395" r="21" fill="#FFC978"/><circle cx="1001" cy="395" r="21" fill="#EA9FC0"/>
+  <rect x="127" y="266" width="179" height="91" rx="16" fill="#211F2B" stroke="#61547C"/><text x="154" y="303" fill="#C5B1FF" font-family="monospace" font-size="16">WEEK 01</text><text x="154" y="334" fill="#E8E3F0" font-family="Arial,sans-serif" font-size="19">Foundations</text>
+  <rect x="420" y="432" width="179" height="91" rx="16" fill="#1D2828" stroke="#46655F"/><text x="447" y="469" fill="#9CE3D1" font-family="monospace" font-size="16">WEEK 02</text><text x="447" y="500" fill="#E8E3F0" font-family="Arial,sans-serif" font-size="19">Build a small app</text>
+  <rect x="713" y="266" width="179" height="91" rx="16" fill="#2B2720" stroke="#766341"/><text x="740" y="303" fill="#FFD68F" font-family="monospace" font-size="16">WEEK 03</text><text x="740" y="334" fill="#E8E3F0" font-family="Arial,sans-serif" font-size="19">Practice &amp; review</text>
+  <rect x="912" y="432" width="179" height="91" rx="16" fill="#2D222B" stroke="#755164"/><text x="939" y="469" fill="#E8AFC9" font-family="monospace" font-size="16">CHECKPOINT</text><text x="939" y="500" fill="#E8E3F0" font-family="Arial,sans-serif" font-size="19">Adjust the plan</text>
+</svg>

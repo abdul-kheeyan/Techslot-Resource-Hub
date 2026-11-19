@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="675" gradientUnits="userSpaceOnUse"><stop stop-color="#503321"/><stop offset="1" stop-color="#15151B"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="1080" cy="525" r="200" fill="#FF9A53" fill-opacity=".1"/>
+  <rect x="105" y="101" width="990" height="473" rx="24" fill="#15151A" stroke="#806044" stroke-width="2"/>
+  <text x="153" y="157" fill="#E7A36C" font-family="monospace" font-size="17" letter-spacing="2">API WORKSPACE</text>
+  <rect x="153" y="198" width="896" height="72" rx="14" fill="#202027" stroke="#39363A"/>
+  <rect x="173" y="214" width="96" height="40" rx="9" fill="#314A3B"/><text x="194" y="241" fill="#A5E6B7" font-family="monospace" font-size="18" font-weight="700">GET</text>
+  <text x="293" y="242" fill="#E8E3E9" font-family="monospace" font-size="20">api.example.dev/v1/projects</text>
+  <rect x="904" y="214" width="125" height="40" rx="9" fill="#F09A5D"/><text x="932" y="241" fill="#201711" font-family="Arial,sans-serif" font-size="17" font-weight="700">Send</text>
+  <rect x="153" y="297" width="896" height="222" rx="14" fill="#101116" stroke="#39363A"/>
+  <text x="185" y="344" fill="#8C8B97" font-family="monospace" font-size="16">RESPONSE</text><rect x="320" y="319" width="112" height="37" rx="18" fill="#203A2D"/><text x="344" y="343" fill="#8BE2AE" font-family="monospace" font-size="15">200 OK</text>
+  <text x="185" y="397" fill="#D9B06F" font-family="monospace" font-size="20">{</text><text x="219" y="437" fill="#9DD8D1" font-family="monospace" font-size="20">"status"</text><text x="328" y="437" fill="#D9B06F" font-family="monospace" font-size="20">:</text><text x="352" y="437" fill="#9BE2A9" font-family="monospace" font-size="20">"ready"</text><text x="185" y="477" fill="#D9B06F" font-family="monospace" font-size="20">}</text>
+</svg>
