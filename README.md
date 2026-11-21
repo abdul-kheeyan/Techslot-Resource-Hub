@@ -14,6 +14,8 @@ Full-stack resource library built with React, Vite, Tailwind, Express, and Mongo
 The server creates the admin account on first startup. Keep all `.env` files private; only the `.env.example` templates belong in source control. The supplied Atlas connection details should be entered locally in `server/.env`, not in source files or deployment config.
 Quote `.env` values containing `#` or whitespace, for example `ADMIN_PASSWORD="your password"`, so dotenv does not parse the remainder as a comment.
 
+On startup, the server seeds the published Glass Folder Cards component into the React Components category if it does not already exist.
+
 ## API and behavior
 
 - Public resources are only visible after publishing; latest, popular, and featured endpoints return published items.

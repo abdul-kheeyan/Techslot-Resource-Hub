@@ -1,7 +1,9 @@
 import dotenv from "dotenv";
+import { readFile } from "node:fs/promises";
 import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
 import Category from "./models/Category.js";
+import Resource from "./models/Resource.js";
 import User from "./models/User.js";
 import app from "./app.js";
 
@@ -50,6 +52,34 @@ if (await Category.countDocuments() === 0) {
     { name: "Other Resources", slug: "other-resources" },
   ]);
 }
+
+const reactComponentsCategory = await Category.findOneAndUpdate(
+  { slug: "react-components" },
+  { $setOnInsert: { name: "React Components", slug: "react-components" } },
+  { upsert: true, new: true },
+);
+const glassFolderCode = await readFile(
+  new URL("../../client/src/components/ui/glass-folder-cards.tsx", import.meta.url),
+  "utf8",
+);
+await Resource.updateOne(
+  { slug: "glass-folder-cards" },
+  {
+    $setOnInsert: {
+      title: "Glass Folder Cards",
+      slug: "glass-folder-cards",
+      shortDescription: "Interactive frosted-glass folders with animated file stacks and generated artwork.",
+      description: "A self-contained React and TypeScript component. Hover to tilt the glass, click to open the folder, use + to add a file, or use the menu button for folder actions. The artwork is generated locally, and an image prop is available for custom artwork.",
+      category: reactComponentsCategory._id,
+      type: "Component",
+      thumbnail: "/images/glass-folder-cards.png",
+      componentCode: glassFolderCode,
+      featured: true,
+      published: true,
+    },
+  },
+  { upsert: true },
+);
 
 app.listen(port, () => {
   console.log(`TECHSLOT API listening on port ${port}.`);
